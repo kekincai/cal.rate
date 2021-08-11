@@ -45,4 +45,5 @@ if (FALSE) {
     d <- cal.rate(N.lim=c(1,120), r.lim=c(0, 0.01))
     plot.rate(d=d)
     
+    
 }
